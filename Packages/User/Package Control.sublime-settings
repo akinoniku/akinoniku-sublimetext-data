@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CSSTidy",
+		"CTags",
+		"Git",
+		"Github Tools",
+		"HTML5",
+		"HtmlTidy",
+		"jQuery",
+		"LESS",
+		"Less2Css",
+		"Package Control",
+		"PHP Zend Framework 2 Helper",
+		"Phpcs",
+		"PhpTidy",
+		"sublime-jslint",
+		"SublimeLinter",
+		"TidyHTML5",
+		"Twitter Bootstrap Snippets",
+		"VintageEx",
+		"ZenCoding"
+	]
+}
