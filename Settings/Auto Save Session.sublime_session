@@ -1,15 +1,17 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Richard/Downloads/bootstrap (3)",
+		"/Y/akinoniku-vim",
 		"/Z/testfield/4",
 		"/Z/vhosts/formhero/module/Application/view/sales-brain/notifications",
 		"/Z/vhosts/formhero",
 		"/Z/"
 	],
-	"last_window_id": 10,
+	"last_window_id": 14,
 	"settings":
 	{
-		"new_window_height": 1130.0,
+		"new_window_height": 926.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -17,6 +19,26 @@
 				"selected_items":
 				[
 					[
+						"fo",
+						"font-weight"
+					],
+					[
+						"ba",
+						"badge-number"
+					],
+					[
+						"par",
+						"parent"
+					],
+					[
+						"ma",
+						"mainPart"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
 						"exit",
 						"existGroupId"
 					],
@@ -30,381 +52,40 @@
 					]
 				]
 			},
-			"build_system": "",
+			"build_system": "Packages/JSLint/JSLint.sublime-build",
 			"command_palette":
 			{
-				"height": 81.0,
+				"height": 104.0,
 				"selected_items":
 				[
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"tidy h",
+						"Tidy HTML"
+					],
+					[
+						"tidh",
+						"TidyHTML"
+					],
+					[
+						"tidyh",
+						"TidyHTML"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"git",
-						"Git: Blame"
-					],
-					[
-						"zen",
-						"Zen Coding: Wrap zen as you type"
-					],
-					[
-						"z",
-						"Zen Coding: Zen as you type"
+						"packe",
+						"Package Control: Remove Package"
 					],
 					[
 						"package",
-						"Package Control: Upgrade Package"
+						"Package Control: List Packages"
 					],
-					[
-						":install",
-						"Package Control: Install Package"
-					],
-					[
-						":w",
-						":w - Save"
-					],
-					[
-						":q",
-						"Set Syntax: jQuery (JavaScript)"
-					],
-					[
-						"bootstrap drop",
-						"Snippet: Bootstrap button dropdowns"
-					],
-					[
-						"html",
-						"Tidy HTML"
-					],
-					[
-						"intall",
-						"Package Control: Install Package"
-					],
-					[
-						"bootstrap toolt",
-						"Snippet: Bootstrap tooltips"
-					],
-					[
-						"bootstrap",
-						"Snippet: Bootstrap modal"
-					],
-					[
-						"ph",
-						"Tidy PHP"
-					],
-					[
-						"php",
-						"Tidy PHP"
-					],
-					[
-						":in",
-						"Package Control: Install Package"
-					],
-					[
-						"tidy",
-						"Tidy HTML"
-					],
-					[
-						":ins",
-						"Package Control: Install Package"
-					],
-					[
-						"set s html",
-						"Set Syntax: HTML"
-					],
-					[
-						"Sub",
-						"SublimeLinter: Extract Annotations"
-					],
-					[
-						"git: b",
-						"Git: Blame"
-					],
-					[
-						"ctags",
-						"CTags: Show Symbols (file)"
-					],
-					[
-						"git stat",
-						"Git: Status"
-					],
-					[
-						":status",
-						"Git: Status"
-					],
-					[
-						":tab",
-						"View: Toggle Tabs"
-					],
-					[
-						":insa",
-						"Package Control: Install Package"
-					],
-					[
-						":insal",
-						"Package Control: Install Package"
-					],
-					[
-						":instl",
-						"Package Control: Install Package"
-					],
-					[
-						":inst",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 440.0
-			},
-			"console":
-			{
-				"height": 125.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Z/testfield/4/Public/Css/main.less",
-				"/D/SublimeText/Data/Packages/User/Preferences.sublime-settings",
-				"/Z/vhosts/formhero/public/js/page/notification-filter-settings.js",
-				"/Z/vhosts/formhero/module/Application/src/SalesBrain/Libraries/PluginManager/Plugin/ScreenshotPlugin.php",
-				"/D/SublimeText/Data/Packages/HtmlTidy/HtmlTidy.sublime-settings",
-				"/D/SublimeText/Data/Packages/CTags/CTags.sublime-settings",
-				"/Z/vhosts/formhero/public/formbuilder/src/js/fields/jquery.formbuilder.choice.js",
-				"/D/SublimeText/Data/Packages/SublimeLinter/README.md",
-				"/D/SublimeText/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-				"/Z/vhosts/formhero/module/Application/view/sales-brain/notifications/edit_sales_email.phtml",
-				"/D/SublimeText/Data/Packages/User/CTags.sublime-settings"
-			],
-			"find":
-			{
-				"height": 0.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"dropdown",
-					"edit-",
-					"selected",
-					"selceted",
-					"editContent",
-					"edit-template",
-					"template",
-					"dropdown",
-					"template",
-					"editContent",
-					"setIdOfTemplateEdit",
-					"edit",
-					"emailTemplates",
-					"editContent",
-					"dropdown",
-					"addPdfTemplate",
-					"error",
-					"ctags_command",
-					"\n"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 34.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"replace":
-			{
-				"height": 0.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"iac",
-						"App/Lib/Action/IAction.class.php"
-					],
-					[
-						"less",
-						"Public/Css/main.less"
-					],
-					[
-						"notification.phtml",
-						"module/Application/view/sales-hero/form-manager/notifications.phtml"
-					],
-					[
-						"notification",
-						"public/js/page/notification-filter-settings.js"
-					],
-					[
-						"notification-filter-s",
-						"public/js/page/notification-filter-settings.js"
-					],
-					[
-						"scree",
-						"module/Application/src/SalesBrain/Libraries/PluginManager/Plugin/ScreenshotPlugin.php"
-					],
-					[
-						"ese",
-						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
-					],
-					[
-						"screenshot",
-						"module/Application/src/SalesBrain/Libraries/PluginManager/Plugin/ScreenshotPlugin.php"
-					],
-					[
-						"choice.js",
-						"public/formbuilder/src/js/fields/jquery.formbuilder.choice.js"
-					],
-					[
-						"sales_e",
-						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
-					],
-					[
-						"edit_sal",
-						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 150.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 1904.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"exit",
-						"existGroupId"
-					],
-					[
-						"re",
-						"ready	jQuery(document).ready"
-					],
-					[
-						"edi",
-						"editContent"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Z/vhosts/formhero/public/js/admin/form.manager.js",
-					"settings":
-					{
-						"buffer_size": 13314,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/Z/vhosts/formhero/public/css/style.css",
-					"settings":
-					{
-						"buffer_size": 6516,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Z/vhosts/formhero/public/css/admin/admin.index.css",
-					"settings":
-					{
-						"buffer_size": 3431,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Z/vhosts/formhero/module/FormService/view/form-service/setup/datapoint.phtml",
-					"settings":
-					{
-						"buffer_size": 10606,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "Packages/JSLint/JSLint.sublime-build",
-			"command_palette":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
 					[
 						"gitb",
 						"Git: Blame"
@@ -418,16 +99,8 @@
 						"Git: Blame"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"jslint",
 						"JSLint: Run JSLint"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
 					],
 					[
 						"Package Control: ",
@@ -550,7 +223,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 440.0
+				"width": 512.0
 			},
 			"console":
 			{
@@ -567,6 +240,16 @@
 			},
 			"file_history":
 			[
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/index.phtml",
+				"/Z/vhosts/formhero/public/js/tiny_mce/plugins/template/css/template.css",
+				"/Z/vhosts/formhero/public/formbuilder/src/js/fields/jquery.formbuilder.phone.js",
+				"/Z/vhosts/formhero/public/js/form-service-datapoint.js",
+				"/Z/vhosts/formhero/public/js/admin/form.manager.js",
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/overview.phtml",
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/deployment.phtml",
+				"/Z/vhosts/formhero/module/FormService/view/form-service/setup/datapoint.phtml",
+				"/Z/vhosts/formhero/public/css/admin/admin.index.css",
+				"/Z/vhosts/formhero/public/css/style.css",
 				"/Z/vhosts/formhero/module/Application/src/SalesHero/Controller/FormManagerController.php",
 				"/Z/vhosts/formhero/module/Application/view/sales-brain/notifications/edit_sales_email.phtml",
 				"/Z/vhosts/formhero/public/js/page/notification-filter-settings.js",
@@ -576,7 +259,6 @@
 				"/D/SublimeText/Data/Packages/User/JSLint.sublime-settings",
 				"/D/SublimeText/Data/Packages/JSLint/JSLint.sublime-build",
 				"/D/SublimeText/Data/Packages/JSLint/JSLint.sublime-settings",
-				"/Z/vhosts/formhero/public/js/admin/form.manager.js",
 				"/D/SublimeText/Data/Packages/User/Preferences.sublime-settings",
 				"/Z/vhosts/formhero/module/Application/src/SalesBrain/Libraries/PluginManager/Plugin/ScreenshotPlugin.php",
 				"/D/SublimeText/Data/Packages/HtmlTidy/HtmlTidy.sublime-settings",
@@ -602,6 +284,21 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"fieldset",
+					"recaptcha",
+					"captcha",
+					"console",
+					"attr",
+					"countSelected",
+					"setFieldMappings",
+					"showInfo",
+					"mainAlert",
+					"mapping",
+					"\n                ",
+					"mapping",
+					"Mapping",
+					"mapping",
+					"dataPointAlert",
 					"JSON",
 					"json",
 					"JSON",
@@ -649,396 +346,1163 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 427.0
+			},
+			"output.jslint_result_view":
+			{
+				"height": 100.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"formmanager.js",
+						"public/js/admin/form.manager.js"
+					],
+					[
+						"template.css",
+						"public/css/template.css"
+					],
+					[
+						"tamplate.css",
+						"public/js/tiny_mce/plugins/template/css/template.css"
+					],
+					[
+						"newl",
+						"module/Application/view/sales-hero/form-manager/newlayout.phtml"
+					],
+					[
+						"admin.index",
+						"public/css/admin/admin.index.css"
+					],
+					[
+						"formmanagerindexphtml",
+						"module/Application/view/sales-hero/form-manager/index.phtml"
+					],
+					[
+						"manager/inde",
+						"module/Application/view/sales-hero/form-manager/index.phtml"
+					],
+					[
+						"notification.css",
+						"public/css/admin/notification.css"
+					],
+					[
+						"salee",
+						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
+					],
+					[
+						"overv",
+						"module/Application/view/sales-hero/form-manager/overview.phtml"
+					],
+					[
+						"captchahe",
+						"module/Application/src/SalesHero/Libraries/Helpers/CaptchaHelper.php"
+					],
+					[
+						"signup",
+						"module/Application/src/CustomerManagement/Form/SignupForm.php"
+					],
+					[
+						"overvie",
+						"module/Application/view/sales-hero/form-manager/overview.phtml"
+					],
+					[
+						"deployment",
+						"module/Application/view/sales-hero/form-manager/deployment.phtml"
+					],
+					[
+						"phone.js",
+						"public/formbuilder/src/js/fields/jquery.formbuilder.phone.js"
+					],
+					[
+						"signupphtml",
+						"module/Application/view/customer-management/signup/index.phtml"
+					],
+					[
+						"datapoint.js",
+						"public/js/form-service-datapoint.js"
+					],
+					[
+						"style.css",
+						"public/css/style.css"
+					],
+					[
+						"deply",
+						"module/Application/view/sales-hero/form-manager/deployment.phtml"
+					],
+					[
+						"overview.phtml",
+						"module/Application/view/sales-hero/form-manager/overview.phtml"
+					],
+					[
+						"datapoint",
+						"module/FormService/view/form-service/setup/datapoint.phtml"
+					],
+					[
+						"admin.inde.css",
+						"public/css/admin/admin.index.css"
+					],
+					[
+						"formma",
+						"module/Application/src/SalesHero/Controller/FormManagerController.php"
+					],
+					[
+						"form.mana",
+						"public/js/admin/form.manager.js"
+					],
+					[
+						"notification.phtml",
+						"module/Application/view/sales-hero/form-manager/notifications.phtml"
+					],
+					[
+						"notification",
+						"public/js/page/notification-filter-settings.js"
+					],
+					[
+						"notification-filter-s",
+						"public/js/page/notification-filter-settings.js"
+					],
+					[
+						"scree",
+						"module/Application/src/SalesBrain/Libraries/PluginManager/Plugin/ScreenshotPlugin.php"
+					],
+					[
+						"ese",
+						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
+					],
+					[
+						"screenshot",
+						"module/Application/src/SalesBrain/Libraries/PluginManager/Plugin/ScreenshotPlugin.php"
+					],
+					[
+						"choice.js",
+						"public/formbuilder/src/js/fields/jquery.formbuilder.choice.js"
+					],
+					[
+						"sales_e",
+						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
+					],
+					[
+						"edit_sal",
+						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 149.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1264.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fo",
+						"font-weight"
+					],
+					[
+						"ba",
+						"badge-number"
+					],
+					[
+						"par",
+						"parent"
+					],
+					[
+						"ma",
+						"mainPart"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"exit",
+						"existGroupId"
+					],
+					[
+						"re",
+						"ready	jQuery(document).ready"
+					],
+					[
+						"edi",
+						"editContent"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "Packages/JSLint/JSLint.sublime-build",
+			"command_palette":
+			{
+				"height": 104.0,
+				"selected_items":
+				[
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"tidy h",
+						"Tidy HTML"
+					],
+					[
+						"tidh",
+						"TidyHTML"
+					],
+					[
+						"tidyh",
+						"TidyHTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packe",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"gitb",
+						"Git: Blame"
+					],
+					[
+						"git bl",
+						"Git: Blame"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"jslint",
+						"JSLint: Run JSLint"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"jslin",
+						"JSLint"
+					],
+					[
+						"jsli",
+						"JSLint"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"zen",
+						"Zen Coding: Wrap zen as you type"
+					],
+					[
+						"z",
+						"Zen Coding: Zen as you type"
+					],
+					[
+						":install",
+						"Package Control: Install Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":q",
+						"Set Syntax: jQuery (JavaScript)"
+					],
+					[
+						"bootstrap drop",
+						"Snippet: Bootstrap button dropdowns"
+					],
+					[
+						"html",
+						"Tidy HTML"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"bootstrap toolt",
+						"Snippet: Bootstrap tooltips"
+					],
+					[
+						"bootstrap",
+						"Snippet: Bootstrap modal"
+					],
+					[
+						"ph",
+						"Tidy PHP"
+					],
+					[
+						"php",
+						"Tidy PHP"
+					],
+					[
+						":in",
+						"Package Control: Install Package"
+					],
+					[
+						"tidy",
+						"Tidy HTML"
+					],
+					[
+						":ins",
+						"Package Control: Install Package"
+					],
+					[
+						"set s html",
+						"Set Syntax: HTML"
+					],
+					[
+						"Sub",
+						"SublimeLinter: Extract Annotations"
+					],
+					[
+						"git: b",
+						"Git: Blame"
+					],
+					[
+						"ctags",
+						"CTags: Show Symbols (file)"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						":status",
+						"Git: Status"
+					],
+					[
+						":tab",
+						"View: Toggle Tabs"
+					],
+					[
+						":insa",
+						"Package Control: Install Package"
+					],
+					[
+						":insal",
+						"Package Control: Install Package"
+					],
+					[
+						":instl",
+						"Package Control: Install Package"
+					],
+					[
+						":inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 648.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/index.phtml",
+				"/Z/vhosts/formhero/public/js/tiny_mce/plugins/template/css/template.css",
+				"/Z/vhosts/formhero/public/formbuilder/src/js/fields/jquery.formbuilder.phone.js",
+				"/Z/vhosts/formhero/public/js/form-service-datapoint.js",
+				"/Z/vhosts/formhero/public/js/admin/form.manager.js",
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/overview.phtml",
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/deployment.phtml",
+				"/Z/vhosts/formhero/module/FormService/view/form-service/setup/datapoint.phtml",
+				"/Z/vhosts/formhero/public/css/admin/admin.index.css",
+				"/Z/vhosts/formhero/public/css/style.css",
+				"/Z/vhosts/formhero/module/Application/src/SalesHero/Controller/FormManagerController.php",
+				"/Z/vhosts/formhero/module/Application/view/sales-brain/notifications/edit_sales_email.phtml",
+				"/Z/vhosts/formhero/public/js/page/notification-filter-settings.js",
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/notifications.phtml",
+				"/D/SublimeText/Data/Packages/User/sublime-jslint.sublime-settings",
+				"/D/SublimeText/Data/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+				"/D/SublimeText/Data/Packages/User/JSLint.sublime-settings",
+				"/D/SublimeText/Data/Packages/JSLint/JSLint.sublime-build",
+				"/D/SublimeText/Data/Packages/JSLint/JSLint.sublime-settings",
+				"/D/SublimeText/Data/Packages/User/Preferences.sublime-settings",
+				"/Z/vhosts/formhero/module/Application/src/SalesBrain/Libraries/PluginManager/Plugin/ScreenshotPlugin.php",
+				"/D/SublimeText/Data/Packages/HtmlTidy/HtmlTidy.sublime-settings",
+				"/D/SublimeText/Data/Packages/CTags/CTags.sublime-settings",
+				"/Z/vhosts/formhero/public/formbuilder/src/js/fields/jquery.formbuilder.choice.js",
+				"/D/SublimeText/Data/Packages/SublimeLinter/README.md",
+				"/D/SublimeText/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/SublimeText/Data/Packages/User/CTags.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"fieldset",
+					"recaptcha",
+					"captcha",
+					"console",
+					"attr",
+					"countSelected",
+					"setFieldMappings",
+					"showInfo",
+					"mainAlert",
+					"mapping",
+					"\n                ",
+					"mapping",
+					"Mapping",
+					"mapping",
+					"dataPointAlert",
+					"JSON",
+					"json",
+					"JSON",
+					"json",
+					"JSON",
+					"json",
+					"JSON",
+					"json",
+					"JSON",
+					"0088CC",
+					"heading",
+					"_doAjax",
+					"notificationFilter",
+					"emailFilter",
+					"dropdown",
+					"edit-",
+					"selected",
+					"selceted",
+					"editContent",
+					"edit-template",
+					"template",
+					"dropdown",
+					"template",
+					"editContent",
+					"setIdOfTemplateEdit",
+					"edit",
+					"emailTemplates",
+					"editContent",
+					"dropdown",
+					"addPdfTemplate",
+					"error",
+					"ctags_command",
+					"\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/C/Users/Richard/Downloads/bootstrap (3)"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 3,
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 427.0
+			},
+			"output.jslint_result_view":
+			{
+				"height": 100.0
+			},
+			"position": "0,2,2,-32000,-32000,-1,-1,1014,1280,30,2560",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"formmanager.js",
+						"public/js/admin/form.manager.js"
+					],
+					[
+						"template.css",
+						"public/css/template.css"
+					],
+					[
+						"tamplate.css",
+						"public/js/tiny_mce/plugins/template/css/template.css"
+					],
+					[
+						"newl",
+						"module/Application/view/sales-hero/form-manager/newlayout.phtml"
+					],
+					[
+						"admin.index",
+						"public/css/admin/admin.index.css"
+					],
+					[
+						"formmanagerindexphtml",
+						"module/Application/view/sales-hero/form-manager/index.phtml"
+					],
+					[
+						"manager/inde",
+						"module/Application/view/sales-hero/form-manager/index.phtml"
+					],
+					[
+						"notification.css",
+						"public/css/admin/notification.css"
+					],
+					[
+						"salee",
+						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
+					],
+					[
+						"overv",
+						"module/Application/view/sales-hero/form-manager/overview.phtml"
+					],
+					[
+						"captchahe",
+						"module/Application/src/SalesHero/Libraries/Helpers/CaptchaHelper.php"
+					],
+					[
+						"signup",
+						"module/Application/src/CustomerManagement/Form/SignupForm.php"
+					],
+					[
+						"overvie",
+						"module/Application/view/sales-hero/form-manager/overview.phtml"
+					],
+					[
+						"deployment",
+						"module/Application/view/sales-hero/form-manager/deployment.phtml"
+					],
+					[
+						"phone.js",
+						"public/formbuilder/src/js/fields/jquery.formbuilder.phone.js"
+					],
+					[
+						"signupphtml",
+						"module/Application/view/customer-management/signup/index.phtml"
+					],
+					[
+						"datapoint.js",
+						"public/js/form-service-datapoint.js"
+					],
+					[
+						"style.css",
+						"public/css/style.css"
+					],
+					[
+						"deply",
+						"module/Application/view/sales-hero/form-manager/deployment.phtml"
+					],
+					[
+						"overview.phtml",
+						"module/Application/view/sales-hero/form-manager/overview.phtml"
+					],
+					[
+						"datapoint",
+						"module/FormService/view/form-service/setup/datapoint.phtml"
+					],
+					[
+						"admin.inde.css",
+						"public/css/admin/admin.index.css"
+					],
+					[
+						"formma",
+						"module/Application/src/SalesHero/Controller/FormManagerController.php"
+					],
+					[
+						"form.mana",
+						"public/js/admin/form.manager.js"
+					],
+					[
+						"notification.phtml",
+						"module/Application/view/sales-hero/form-manager/notifications.phtml"
+					],
+					[
+						"notification",
+						"public/js/page/notification-filter-settings.js"
+					],
+					[
+						"notification-filter-s",
+						"public/js/page/notification-filter-settings.js"
+					],
+					[
+						"scree",
+						"module/Application/src/SalesBrain/Libraries/PluginManager/Plugin/ScreenshotPlugin.php"
+					],
+					[
+						"ese",
+						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
+					],
+					[
+						"screenshot",
+						"module/Application/src/SalesBrain/Libraries/PluginManager/Plugin/ScreenshotPlugin.php"
+					],
+					[
+						"choice.js",
+						"public/formbuilder/src/js/fields/jquery.formbuilder.choice.js"
+					],
+					[
+						"sales_e",
+						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
+					],
+					[
+						"edit_sal",
+						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 149.0,
+			"status_bar_visible": true,
+			"window_id": 13,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"im",
+						"images"
+					],
+					[
+						"padding",
+						"padding-left"
+					],
+					[
+						"fo",
+						"font-weight"
+					],
+					[
+						"ba",
+						"badge-number"
+					],
+					[
+						"par",
+						"parent"
+					],
+					[
+						"ma",
+						"mainPart"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"exit",
+						"existGroupId"
+					],
+					[
+						"re",
+						"ready	jQuery(document).ready"
+					],
+					[
+						"edi",
+						"editContent"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Z/vhosts/formhero/module/Application/view/layout/login.phtml",
+					"settings":
+					{
+						"buffer_size": 4215,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Z/vhosts/formhero/module/Application/view/customer-management/signup/index.phtml",
+					"settings":
+					{
+						"buffer_size": 8592,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Z/vhosts/formhero/public/css/template.css",
+					"settings":
+					{
+						"buffer_size": 10520,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/JSLint/JSLint.sublime-build",
+			"command_palette":
+			{
+				"height": 104.0,
+				"selected_items":
+				[
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"tidy h",
+						"Tidy HTML"
+					],
+					[
+						"tidh",
+						"TidyHTML"
+					],
+					[
+						"tidyh",
+						"TidyHTML"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packe",
+						"Package Control: Remove Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"gitb",
+						"Git: Blame"
+					],
+					[
+						"git bl",
+						"Git: Blame"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"jslint",
+						"JSLint: Run JSLint"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"jslin",
+						"JSLint"
+					],
+					[
+						"jsli",
+						"JSLint"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"zen",
+						"Zen Coding: Wrap zen as you type"
+					],
+					[
+						"z",
+						"Zen Coding: Zen as you type"
+					],
+					[
+						":install",
+						"Package Control: Install Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":q",
+						"Set Syntax: jQuery (JavaScript)"
+					],
+					[
+						"bootstrap drop",
+						"Snippet: Bootstrap button dropdowns"
+					],
+					[
+						"html",
+						"Tidy HTML"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"bootstrap toolt",
+						"Snippet: Bootstrap tooltips"
+					],
+					[
+						"bootstrap",
+						"Snippet: Bootstrap modal"
+					],
+					[
+						"ph",
+						"Tidy PHP"
+					],
+					[
+						"php",
+						"Tidy PHP"
+					],
+					[
+						":in",
+						"Package Control: Install Package"
+					],
+					[
+						"tidy",
+						"Tidy HTML"
+					],
+					[
+						":ins",
+						"Package Control: Install Package"
+					],
+					[
+						"set s html",
+						"Set Syntax: HTML"
+					],
+					[
+						"Sub",
+						"SublimeLinter: Extract Annotations"
+					],
+					[
+						"git: b",
+						"Git: Blame"
+					],
+					[
+						"ctags",
+						"CTags: Show Symbols (file)"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						":status",
+						"Git: Status"
+					],
+					[
+						":tab",
+						"View: Toggle Tabs"
+					],
+					[
+						":insa",
+						"Package Control: Install Package"
+					],
+					[
+						":insal",
+						"Package Control: Install Package"
+					],
+					[
+						":instl",
+						"Package Control: Install Package"
+					],
+					[
+						":inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 512.0
+			},
+			"console":
+			{
+				"height": 648.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Z/vhosts/formhero/public/css/admin/admin.index.css",
+				"/Z/vhosts/formhero/module/FormService/view/form-service/setup/datapoint.phtml",
+				"/Z/vhosts/formhero/public/js/admin/form.manager.js",
+				"/Z/vhosts/formhero/public/css/template.css",
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/newlayout.phtml",
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/overview.phtml",
+				"/Z/vhosts/formhero/module/Application/src/SalesHero/Libraries/Helpers/CaptchaHelper.php",
+				"/Z/vhosts/formhero/module/Application/view/sales-brain/notifications/edit_sales_email.phtml",
+				"/Z/vhosts/formhero/public/css/admin/notification.css",
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/deployment.phtml",
+				"/Z/vhosts/formhero/module/Application/src/CustomerManagement/Controller/SignupController.php",
+				"/Z/vhosts/formhero/module/Application/view/customer-management/signup/index.phtml",
+				"/Z/vhosts/formhero/module/Application/src/CustomerManagement/Form/SignupForm.php",
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-builder/edit.phtml",
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/index.phtml",
+				"/Z/vhosts/formhero/public/js/tiny_mce/plugins/template/css/template.css",
+				"/Z/vhosts/formhero/public/formbuilder/src/js/fields/jquery.formbuilder.phone.js",
+				"/Z/vhosts/formhero/public/js/form-service-datapoint.js",
+				"/Z/vhosts/formhero/public/css/style.css",
+				"/Z/vhosts/formhero/module/Application/src/SalesHero/Controller/FormManagerController.php",
+				"/Z/vhosts/formhero/public/js/page/notification-filter-settings.js",
+				"/Z/vhosts/formhero/module/Application/view/sales-hero/form-manager/notifications.phtml",
+				"/D/SublimeText/Data/Packages/User/sublime-jslint.sublime-settings",
+				"/D/SublimeText/Data/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+				"/D/SublimeText/Data/Packages/User/JSLint.sublime-settings",
+				"/D/SublimeText/Data/Packages/JSLint/JSLint.sublime-build",
+				"/D/SublimeText/Data/Packages/JSLint/JSLint.sublime-settings",
+				"/D/SublimeText/Data/Packages/User/Preferences.sublime-settings",
+				"/Z/vhosts/formhero/module/Application/src/SalesBrain/Libraries/PluginManager/Plugin/ScreenshotPlugin.php",
+				"/D/SublimeText/Data/Packages/HtmlTidy/HtmlTidy.sublime-settings",
+				"/D/SublimeText/Data/Packages/CTags/CTags.sublime-settings",
+				"/Z/vhosts/formhero/public/formbuilder/src/js/fields/jquery.formbuilder.choice.js",
+				"/D/SublimeText/Data/Packages/SublimeLinter/README.md",
+				"/D/SublimeText/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/SublimeText/Data/Packages/User/CTags.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Fallback",
+					"fieldConfig",
+					"Choose",
+					"span8",
+					"cacpwd",
+					"requiredString",
+					"fieldset",
+					"recaptcha",
+					"captcha",
+					"console",
+					"attr",
+					"countSelected",
+					"setFieldMappings",
+					"showInfo",
+					"mainAlert",
+					"mapping",
+					"\n                ",
+					"mapping",
+					"Mapping",
+					"mapping",
+					"dataPointAlert",
+					"JSON",
+					"json",
+					"JSON",
+					"json",
+					"JSON",
+					"json",
+					"JSON",
+					"json",
+					"JSON",
+					"0088CC",
+					"heading",
+					"_doAjax",
+					"notificationFilter",
+					"emailFilter",
+					"dropdown",
+					"edit-",
+					"selected",
+					"selceted",
+					"editContent",
+					"edit-template",
+					"template",
+					"dropdown",
+					"template",
+					"editContent",
+					"setIdOfTemplateEdit",
+					"edit",
+					"emailTemplates",
+					"editContent",
+					"dropdown",
+					"addPdfTemplate",
+					"error",
+					"ctags_command",
+					"\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Z/vhosts/formhero/public/js/admin/form.manager.js",
+							"file": "/Z/vhosts/formhero/module/Application/view/layout/login.phtml",
 							"settings":
 							{
-								"buffer_size": 13314,
+								"buffer_size": 4215,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4911,
-										4911
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2287.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Z/vhosts/formhero/public/css/style.css",
-							"settings":
-							{
-								"buffer_size": 6516,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										6017,
-										6017
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1687.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Z/vhosts/formhero/public/css/admin/admin.index.css",
-							"settings":
-							{
-								"buffer_size": 3431,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2844,
-										2844
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"gjslint_ignore":
-									[
-										110
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/CSS/CSS.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1207.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Z/vhosts/formhero/module/FormService/view/form-service/setup/datapoint.phtml",
-							"settings":
-							{
-								"buffer_size": 10606,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										6272,
-										6272
+										3539,
+										3539
 									]
 								],
 								"settings":
@@ -1132,11 +1596,241 @@
 									},
 									"sublimelinter_wrap_find": true,
 									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1080.0,
+								"translation.y": 720.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Z/vhosts/formhero/module/Application/view/customer-management/signup/index.phtml",
+							"settings":
+							{
+								"buffer_size": 8592,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										384,
+										384
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Z/vhosts/formhero/public/css/template.css",
+							"settings":
+							{
+								"buffer_size": 10520,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										33,
+										33
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -1183,7 +1877,7 @@
 			{
 				"height": 100.0
 			},
-			"position": "0,2,3,-1,-1,-1,-1,1200,1280,12,3200",
+			"position": "0,2,3,-32000,-32000,-1,-1,1141,1384,157,2664",
 			"replace":
 			{
 				"height": 0.0
@@ -1195,16 +1889,108 @@
 				"selected_items":
 				[
 					[
+						"template.css",
+						"public/css/template.css"
+					],
+					[
+						"signupindex",
+						"module/Application/view/customer-management/signup/index.phtml"
+					],
+					[
+						"login",
+						"module/Application/view/layout/login.phtml"
+					],
+					[
+						"datapo",
+						"module/FormService/view/form-service/setup/datapoint.phtml"
+					],
+					[
+						"formedit.html",
+						"module/Application/view/sales-hero/form-builder/edit.phtml"
+					],
+					[
+						"formmanager.js",
+						"public/js/admin/form.manager.js"
+					],
+					[
+						"tamplate.css",
+						"public/js/tiny_mce/plugins/template/css/template.css"
+					],
+					[
+						"newl",
+						"module/Application/view/sales-hero/form-manager/newlayout.phtml"
+					],
+					[
+						"admin.index",
+						"public/css/admin/admin.index.css"
+					],
+					[
+						"formmanagerindexphtml",
+						"module/Application/view/sales-hero/form-manager/index.phtml"
+					],
+					[
+						"manager/inde",
+						"module/Application/view/sales-hero/form-manager/index.phtml"
+					],
+					[
+						"notification.css",
+						"public/css/admin/notification.css"
+					],
+					[
+						"salee",
+						"module/Application/view/sales-brain/notifications/edit_sales_email.phtml"
+					],
+					[
+						"overv",
+						"module/Application/view/sales-hero/form-manager/overview.phtml"
+					],
+					[
+						"captchahe",
+						"module/Application/src/SalesHero/Libraries/Helpers/CaptchaHelper.php"
+					],
+					[
+						"signup",
+						"module/Application/src/CustomerManagement/Form/SignupForm.php"
+					],
+					[
+						"overvie",
+						"module/Application/view/sales-hero/form-manager/overview.phtml"
+					],
+					[
+						"deployment",
+						"module/Application/view/sales-hero/form-manager/deployment.phtml"
+					],
+					[
+						"phone.js",
+						"public/formbuilder/src/js/fields/jquery.formbuilder.phone.js"
+					],
+					[
+						"signupphtml",
+						"module/Application/view/customer-management/signup/index.phtml"
+					],
+					[
+						"datapoint.js",
+						"public/js/form-service-datapoint.js"
+					],
+					[
+						"style.css",
+						"public/css/style.css"
+					],
+					[
+						"deply",
+						"module/Application/view/sales-hero/form-manager/deployment.phtml"
+					],
+					[
+						"overview.phtml",
+						"module/Application/view/sales-hero/form-manager/overview.phtml"
+					],
+					[
 						"datapoint",
 						"module/FormService/view/form-service/setup/datapoint.phtml"
 					],
 					[
 						"admin.inde.css",
 						"public/css/admin/admin.index.css"
-					],
-					[
-						"style.css",
-						"public/css/style.css"
 					],
 					[
 						"formma",
@@ -1265,9 +2051,9 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 149.0,
+			"side_bar_width": 282.0,
 			"status_bar_visible": true,
-			"window_id": 7,
+			"window_id": 14,
 			"workspace_name": "/D/formhero.sublime-project"
 		}
 	],

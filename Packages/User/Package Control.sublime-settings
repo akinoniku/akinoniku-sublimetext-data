@@ -4,12 +4,14 @@
 		"BracketHighlighter",
 		"CSSTidy",
 		"CTags",
+		"Emmet",
 		"Git",
 		"Github Tools",
 		"HTML5",
 		"HtmlTidy",
 		"jQuery",
 		"LESS",
+		"LESS-build",
 		"Less2Css",
 		"Package Control",
 		"PHP Zend Framework 2 Helper",
@@ -19,7 +21,6 @@
 		"SublimeLinter",
 		"TidyHTML5",
 		"Twitter Bootstrap Snippets",
-		"VintageEx",
-		"ZenCoding"
+		"VintageEx"
 	]
 }
